@@ -1,5 +1,5 @@
 manifest_version = "0"
-plugin_version = "0.2.1" # x-release-please-version
+plugin_version = "0.2.2" # x-release-please-version
 requires_tap = ">=0.1.5"
 slug = "roscale"
 name = "ROSCALE"
@@ -8,4 +8,4 @@ description = "Read OSCAL Edit — TAP helper/presentation plugin that parses, v
 [[boot.records]]
 name = "ci"
 description = "RESERVED NAME (req-boot-bootstrap-ci-record): the stack this plugin's own tests run in — depends_on closure + self, offline, credential-free. The consumer flips self to editable."
-sha256 = "7490fd5a0a21087da7edf9bce7f581d7b24167ade4426170a033f896e68a58a0"
+sha256 = "19086cd5f0c412fa519a84b56881a38025a4820656e635f22fbccbbd5cb3f92e"
