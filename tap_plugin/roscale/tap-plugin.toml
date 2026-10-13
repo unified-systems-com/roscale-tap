@@ -1,6 +1,6 @@
 manifest_version = "0"
 plugin_version = "0.2.1" # x-release-please-version
-requires_tap = ">=0.1.5"
+requires_tap = ">=0.3.0"
 slug = "roscale"
 name = "ROSCALE"
 description = "Read OSCAL Edit — TAP helper/presentation plugin that parses, validates, and renders OSCAL documents (System Security Plan and POA&M) inside TAP Web workbench panels."
